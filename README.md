@@ -26,7 +26,7 @@ This is because it inherently treats the background as one category and your sin
 a second category. In essence, your single-class segmentation model will operate with two categorized classes within our Multiclass UNet framework.
 <br>
 <br>
-<b>Acutual Image Segmentation for 512x512 Lung Infection images</b><br>
+<b>Acutual Image Segmentation for 512x512 Lung images</b><br>
 
 As shown below, the inferred masks predicted by our segmentation model trained on the 
 PNG dataset appear similar to the ground truth masks.
